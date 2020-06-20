@@ -1,0 +1,43 @@
+*{padding: 0;
+	margin: 0;}
+	body{}
+	.main{width: 1000px; height: 800px; 
+			margin: 30px auto;}
+
+	.colam1{width: 100%;height:200px;}
+
+
+	.colam-1-1{width: 33.33%; height: 100%;float: left;box-sizing: border-box;padding: 5px;}
+
+	.colam-1-2{width: 33.33%; height: 100%;float: left; box-sizing: border-box;padding: 5px;}
+
+	.colam-1-3{width: 33.34%; height: 100%;float: left; box-sizing: border-box;padding: 5px;}
+
+
+
+	.colam-2{width: 100%; height: 200px;box-sizing:border-box;padding: 5px;}
+
+	.colam-3{width: : 100%;height: 200px;}
+
+
+	.colam-3-1{width: 50%;height: 100%;float:left;box-sizing: border-box;padding: 5px;}
+	.colam-3-2{width: 50%;height: 100%;float:left;box-sizing: border-box;padding: 5px;}
+
+
+.colam-4{width:100%; height: 200px;}
+	
+.colam-4-1{width:66.66%;height:100%;float: left;padding: 5px;box-sizing: border-box;}
+.colam-4-2{width:16.5%;height:100%;float: left;padding: 5px;box-sizing: border-box;}
+.colam-4-3{width:16.5%;height:100%;float: left;padding: 5px;box-sizing: border-box;}
+	
+
+	.pad-1-1{ height:100%;background: blue;}
+	.pad-1-2{height: 100%;background: green;}
+	.pad-1-3{height: 100%;background: silver;}
+	.pad-2  {height: 100%;background: #B04C07 ;}
+	.pad-3-1{height: 100%;background:#97671E ; }
+	.pad-3-2{height: 100%;background:#8F41F2;}
+
+	.pad-4-1{height: 100%;background:#7AB05B ;}
+	.pad-4-2{height: 100%;background:#CDD950 ;}
+	.pad-4-3{height: 100%;background:#D9AB40;}
